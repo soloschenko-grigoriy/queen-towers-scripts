@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52a339c5899a4d22b71fbec83d323614, type: 3}
+  m_Name: TurretDefault
+  m_EditorClassIdentifier: 
+  radius: 10
+  cooldown: 0.5
+  attack: 10
+  projectileVelocity: 30
+  projectile: {fileID: 7632741701250180924, guid: 251974388962a483daae8e040964f72e, type: 3}
