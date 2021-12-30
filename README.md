@@ -4,3 +4,7 @@ This repo contains almost the entire source of the Queen's Towers game. To prote
 As a result, the project may not be able to be compiled and if it does, it looks not like the actual game. However, I still hope you will find my scripts helpful in building your game
 
 <img width="1060" alt="tower-2" src="https://user-images.githubusercontent.com/5962670/147726386-2498bcdd-1c9f-4bd3-9ef9-4ada5788c252.png">
+
+
+https://user-images.githubusercontent.com/5962670/147726522-60a529a6-6b04-4b3c-baf7-f2ef796620e5.mov
+
